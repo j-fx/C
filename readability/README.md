@@ -4,4 +4,4 @@ Where L is the average number of letters per 100 words in the text, and S is the
 
 The program outputs "Grade X" where X is the grade level computed by the Coleman-Liau formula, rounded to the nearest integer.
 If the resulting index number is 16 or higher, the program outputs "Grade 16+".
-If the index number is less than 1, your program output "Before Grade 1".
+If the index number is less than 1, your program outputs "Before Grade 1".
